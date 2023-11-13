@@ -1,1 +1,1 @@
-#Dollar tree calculator done in c
+# Dollar tree calculator done in c
